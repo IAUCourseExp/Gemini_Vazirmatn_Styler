@@ -1,6 +1,5 @@
- ```markdown
-        **[English](readme.EN.md)**
- ```
+**[English Readme](readme.EN.md)**
+
 
 # Gemini Vazirmatn Styler ✒️
 
