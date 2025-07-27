@@ -1,3 +1,5 @@
+**[Farsi Readme](readme.md)**
+
 # Gemini Vazirmatn Styler ✒️
 
 A Chrome Extension designed to apply the beautiful **Vazirmatn** font to the Google Gemini user interface. This extension aims to enhance the visual experience for Persian-speaking users in Gemini.
