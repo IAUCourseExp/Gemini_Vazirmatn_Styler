@@ -1,3 +1,6 @@
+**[English Readme](readme.EN.md)**
+
+
 # Gemini Vazirmatn Styler ✒️
 
 یک افزونه (Extension) کروم برای اعمال فونت زیبای **Vazirmatn** در رابط کاربری Google Gemini. این افزونه با هدف بهبود تجربه بصری کاربران فارسی‌زبان در Gemini طراحی شده است.
