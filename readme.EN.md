@@ -1,4 +1,4 @@
-**[Farsi Readme](readme.md)**
+**[Farsi Readme](README.md)**
 
 # Gemini Vazirmatn Styler ✒️
 
