@@ -61,7 +61,14 @@ We invite developers, CSS enthusiasts, and front-end specialists to help us reso
 **Please Fork this repository, investigate and fix the icon issue, and submit a Pull Request.**
 Any help and suggestions for improving this extension would be highly valuable.
 
+
 ---
+## **Updates and Changes 🆙**
+
+**Update 1.1: Chatbots (Claude, Deepseek, Qwen, ChatGPT, Kimi, Mistral) have been added. From now on, you can enjoy the beautiful Vazirmatn font, and the right-to-left (RTL) issue for the Persian language has also been fixed 😉**
+
+---
+
 
 ## 📢 Related Resources and Channels
 
